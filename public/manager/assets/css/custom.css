@@ -1,0 +1,114 @@
+.content-wrapper
+          {
+            background: #d9dbe7!important;
+
+          }
+          .card
+          {
+            background: #fff
+          }
+          .table-striped
+          {
+            background: #fff
+          }
+          .table-striped .table-responsive
+          {
+            background: #fff
+          }
+          .page-header h3
+          {
+            color: #858796
+          }
+          #sliders tr
+          {
+            background: #fff
+          }
+          #sliders td
+          {
+            color: #858796
+          }
+          .form-control
+          {
+            background: #fff;
+            border: 1px solid #fff;
+          }
+          .form-control, .asColorPicker-input, .dataTables_wrapper select, .jsgrid .jsgrid-table .jsgrid-filter-row input[type=text], .jsgrid .jsgrid-table .jsgrid-filter-row select, .jsgrid .jsgrid-table .jsgrid-filter-row input[type=number], .select2-container--default .select2-selection--single, .select2-container--default .select2-selection--single .select2-search__field, .typeahead, .tt-query, .tt-hint {
+    border: 1px solid #2c2e33;
+    height: calc(2.25rem + 2px);
+    font-weight: normal;
+    font-size: 0.875rem;
+    padding: 0.625rem 0.6875rem;
+    background-color: #fff!important;
+    border-radius: 2px;
+    color: #ffffff;
+}
+
+.form-control, .asColorPicker-input, .dataTables_wrapper select, .jsgrid .jsgrid-table .jsgrid-filter-row input[type=text], .jsgrid .jsgrid-table .jsgrid-filter-row select, .jsgrid .jsgrid-table .jsgrid-filter-row input[type=number], .select2-container--default .select2-selection--single, .select2-container--default .select2-selection--single .select2-search__field, .typeahead, .tt-query, .tt-hint {
+    display: block;
+    width: 100%;
+    height: 2.875rem;
+    padding: 0.56rem 0.75rem;
+    font-size: 0.875rem;
+    font-weight: 400;
+    line-height: 1;
+    color: #495057 !important;
+    background-color: #2A3038;
+    background-clip: padding-box;
+    border: 1px solid #2c2e33;
+    border-radius: 2px;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+.sidebar
+      {
+        background: #4e73df
+      }
+      
+      .sidebar .nav .nav-item.active > .nav-link
+      {
+        background: #131968;
+
+        color: red;
+      }
+      .sidebar .nav:not(.sub-menu) > .nav-item:hover:not(.nav-category):not(.account-dropdown) > .nav-link {
+    background: #183bec;
+    color: #ffffff;
+}
+
+    .sidebar .nav .nav-item .nav-link .menu-title {
+      color:#fff
+    }
+    .sidebar-brand-wrapper
+    {
+      background: #4e73df!important;
+    }
+    .mytitle
+    {
+        font-size: 1.65rem;
+    }
+    .sidebar .nav .nav-item.profile .profile-desc .profile-name span {
+    font-size: 14px;
+    color: #595b69;
+    white-space: nowrap;
+}
+.sidebar .nav .nav-item .menu-icon i {
+    font-size: 1.4rem;
+}
+
+.mycard{
+  background: #183bec;
+}
+
+.footer
+{
+  background: #d9dbe7;
+}
+
+.form-group label
+{
+  color: #31363b;
+}
+
+.mb-3 label
+{
+  color: #31363b;
+}
